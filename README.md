@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/suhail" target="blank"><img src="https://img.shields.io/twitter/follow/suhail?logo=twitter&style=for-the-badge" alt="suhail" /></a> </p>
 
+<img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=790b7611h15alh8sq74upc9z1mqhzuhw2tvlaj6luoppjazz&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Italian Trulli">
+
+
+
 - 🔭 I’m currently working on **project**
 
 - 🌱 I’m currently learning **pandas,Numpy**
