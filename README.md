@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **project**
+- 🔭 I’m currently working on **Creating a search engine with llm**
 
 - 🌱 I’m currently learning **pandas,Numpy**
 
@@ -20,8 +20,6 @@
 - 💬 Ask me about **SQL, Python**
 
 - 📫 How to reach me **suhailahmed030803@gmail.com**
-
-- ⚡ Fun fact **I'm Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
