@@ -15,9 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Data Engineering**
 
-- All of my projects are available at [https://suhailahmedd.github.io/Portfolio-Website/](https://suhailahmedd.github.io/Portfolio-Website/)
-
-- 💬 Ask me about **SQL, Python**
+- 💬 Ask me about **SQL, Python, Data Engineering**
 
 - 📫 How to reach me **suhailahmed030803@gmail.com**
 
