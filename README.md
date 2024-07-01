@@ -11,11 +11,11 @@
 
 - 🔭 I’m currently working on **Creating a search engine with llm**
 
-- 🌱 I’m currently learning **pandas,Numpy**
+- 🌱 I’m currently learning **Pandas, Numpy, Spark**
 
 - 👯 I’m looking to collaborate on **Data Engineering**
 
-- 💬 Ask me about **SQL, Python, Data Engineering**
+- 💬 Ask me about **SQL, Python, Data Engineering, Data Science and Analytics**
 
 - 📫 How to reach me **suhailahmed030803@gmail.com**
 
