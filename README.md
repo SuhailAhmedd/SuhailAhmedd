@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Creating a search engine with llm**
+- 🔭 I’m currently working on **Creating a search engine with LLM**
 
 - 🌱 I’m currently learning **Pandas, Numpy, Spark**
 
